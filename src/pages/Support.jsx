@@ -9,11 +9,11 @@ const Settings = () => {
   };
 
   const navigateToProject = ()=>{
-    navigate("https://github.com/Adedoyin-Emmanuel/react-weather-app");
+    navigate("https://github.com/Amirkhaksar/react-weather-app");
   }
 
   const navigateToGithub = () =>{
-    navigate("https://github.com/Adedoyin-Emmanuel");
+    navigate("https://github.com/Amirkhaksar");
   }
 
   const [defaultLocation, setDefaultLocation] = useState("");
