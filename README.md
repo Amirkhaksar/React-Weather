@@ -28,7 +28,7 @@
 
 ### Live Link 
 
-https://react-weather.vercel.app
+https://react-weather-coral.vercel.app
 
 ### Please Support By Starring This Project. Follow Me For More Cool Open Source Projects.
 
