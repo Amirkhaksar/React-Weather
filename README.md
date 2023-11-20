@@ -1,10 +1,6 @@
 # Awesome Weather Application
 
-## Probably the best, free and open source weather-app out there! :)
-
 ## A react application built with modern technologies
-
-
 
 ### Application Features.
 
@@ -28,8 +24,4 @@
 
 ### Live Link 
 
-https://react-weather.vercel.app
-
-### Please Support By Starring This Project. Follow Me For More Cool Open Source Projects.
-
-https://github.com/Amirkhaksar/
+https://react-weather-coral.vercel.app
